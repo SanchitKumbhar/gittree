@@ -1,6 +1,6 @@
 from git import Repo
 
-repo="/home/sanchit/Desktop/timecap/TimeCap/.git"
+repo = r"C:\Users\admin\Desktop\gittree\.git"
 
 # repo=input("Repo: ")
 
